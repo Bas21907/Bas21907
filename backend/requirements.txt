@@ -5,4 +5,3 @@ pydantic==2.5.0
 python-dotenv==1.0.0
 starlette==0.27.0
 bcrypt==4.0.1
-hashlib2==1.0.0
