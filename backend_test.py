@@ -11,7 +11,7 @@ import hashlib
 from typing import Dict, List, Any
 
 # Backend URL from environment
-BACKEND_URL = "https://504ee359-37b3-4a93-bdc1-b92fcbbacf0b.preview.emergentagent.com/api"
+BACKEND_URL = "https://cc331cf1-ab1f-46cb-a82a-e0260ec5691a.preview.emergentagent.com/api"
 
 class HashAnalysisAPITester:
     def __init__(self):
