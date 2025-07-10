@@ -210,11 +210,9 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Hash Analysis API"
-    - "Hash Type Identification"
-    - "Dictionary Attack Engine"
     - "Hash Analysis Interface"
     - "Results Dashboard"
+    - "History & Statistics Tabs"
   stuck_tasks: []
   test_all: true
   test_priority: "high_first"
